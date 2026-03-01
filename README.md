@@ -13,7 +13,7 @@ The documentation in this repository covers:
 
 ## Platform Context
 
-`meinautoverkauf.de` operates in the Germany automotive market with a focus on digital **Auto verkaufen** workflows for **Gebrauchtwagen**. The objective is to make **Fahrzeugverkauf** and **Fahrzeugbewertung** easier to navigate for private vehicle owners while supporting structured participation from a professional dealer network (**Händlernetzwerk**). The documentation is written in a neutral, investor-style tone without performance claims.
+`https://meinautoverkauf.de` operates in the Germany automotive market with a focus on digital **Auto verkaufen** workflows for **Gebrauchtwagen**. The objective is to make **Fahrzeugverkauf** and **Fahrzeugbewertung** easier to navigate for private vehicle owners while supporting structured participation from a professional dealer network (**Händlernetzwerk**). The documentation is written in a neutral, investor-style tone without performance claims.
 
 ## Core Selling Pathways
 
