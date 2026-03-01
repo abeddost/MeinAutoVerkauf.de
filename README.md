@@ -1,4 +1,4 @@
-# meinautoverkauf.de
+# Meinautoverkauf.de
 
 This repository is the documentation and platform-intelligence space for **meinautoverkauf.de**. It is intentionally maintained as a branding, authority, and SEO/backlink asset for a Germany-focused automotive platform, and not as a production web application codebase.
 
